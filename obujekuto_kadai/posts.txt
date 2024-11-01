@@ -1,0 +1,3 @@
+mi211304,roguinndekitekusa,760
+mi211305,zikottetekusa,733
+mi211304,test,760
